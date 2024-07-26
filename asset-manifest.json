@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/limitlez2020/wordle-game/static/css/main.73564b82.css",
+    "main.js": "/limitlez2020/wordle-game/static/js/main.e545f4e3.js",
+    "index.html": "/limitlez2020/wordle-game/index.html",
+    "main.73564b82.css.map": "/limitlez2020/wordle-game/static/css/main.73564b82.css.map",
+    "main.e545f4e3.js.map": "/limitlez2020/wordle-game/static/js/main.e545f4e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73564b82.css",
+    "static/js/main.e545f4e3.js"
+  ]
+}
