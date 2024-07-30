@@ -1,8 +1,8 @@
 {
   "name": "wordle-game",
   "version": "0.1.0",
-  "homepage": "https://limitlez2020.github.io/wordle-game/",
   "private": true,
+  "hompage": "https://limitlez2020.github.io/wordle-game",
   "dependencies": {
     "@heroicons/react": "^2.1.4",
     "@testing-library/jest-dom": "^5.17.0",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",  
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
