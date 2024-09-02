@@ -1,4 +1,4 @@
-# Wordle Game Web App
+# Wordle Game
 
 A web-based Wordle game where players must guess 5-letter words before the timer runs out. The game features a point-based system, with penalties for incorrect guesses and rewards for consecutive correct guesses. Additionally, the app includes lofi music to enhance the gaming experience.
 
