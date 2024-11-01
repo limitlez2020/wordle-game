@@ -34,7 +34,7 @@ This Wordle game is designed to challenge your word-guessing skills under time p
 
 ## Usage
 
-Link: 
+Link: https://wordle-fortune.vercel.app/
 
 1. Start the game by clicking on the first box to begin typing your word guess.
 2. Use the audio button to toggle the lofi music on or off.
@@ -44,4 +44,3 @@ Link:
 ## Authors:
 
 - David Fortune Akinremi (Me 🙈)
-"# wordle-game" 
