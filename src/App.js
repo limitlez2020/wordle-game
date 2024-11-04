@@ -278,10 +278,13 @@ const App = () => {
 
 
 
-  return (
+  return (    
     <div className=" bg-orange-50 min-h-screen flex flex-col items-center">
+
       {/* Header: */}
-      <h1 className=" font-extrabold text-3xl mt-20 mb-16">WORDLE</h1>
+      <h1 className="font-extrabold text-4xl mt-20">WORDLE</h1>
+      {/* Instruction: */}
+      <h1 className="mb-12">Guess the 5-letter word</h1>
 
 
       {/* Game Board: */}
