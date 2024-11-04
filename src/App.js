@@ -607,7 +607,7 @@ const App = () => {
       <button
         onClick={toggleMusic}
         className="bg-neutral-800 text-orange-50 px-6 py-3 mt-12 rounded-2xl border-2
-                   hover:bg-neutral-700 hover:border-black mb-4"
+                   hover:bg-neutral-700 hover:border-black mb-12"
       >
         {isPlaying? <SpeakerXMarkIcon className="size-4"/> : <SpeakerWaveIcon className="size-4"/>}
       </button>
