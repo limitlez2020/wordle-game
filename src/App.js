@@ -284,7 +284,10 @@ const App = () => {
       {/* Header: */}
       <h1 className="font-extrabold text-4xl mt-20">WORDLE</h1>
       {/* Instruction: */}
-      <h1 className="mb-12">Guess the 5-letter word</h1>
+      <h1>Guess the 5-letter word</h1>
+      <t1 className="text-xs italic mb-12">
+        Click first box to start typing your guess
+      </t1>
 
 
       {/* Game Board: */}
@@ -607,7 +610,7 @@ const App = () => {
       <button
         onClick={toggleMusic}
         className="bg-neutral-800 text-orange-50 px-6 py-3 mt-12 rounded-2xl border-2
-                   hover:bg-neutral-700 hover:border-black mb-12"
+                   hover:bg-neutral-700 hover:border-black mb-10"
       >
         {isPlaying? <SpeakerXMarkIcon className="size-4"/> : <SpeakerWaveIcon className="size-4"/>}
       </button>
